@@ -8,7 +8,7 @@ I love creating **interactive dashboards, full-stack applications, and data-driv
 ## 🔭 Current Highlights
 - **[MovieLens Dashboard](https://movie-lens-insights-azure.vercel.app/)** — Interactive analytics dashboard built with React, Material-UI, Recharts, and Power BI; deployed on Vercel.  
 - **[MediVault](https://github.com/nilimamishra2002/medivault)** — Secure medical records management system (Node.js, Express, MongoDB).  
-- **[MyPersonalMeal](https://github.com/nilimamishra2002/mypersonalmeal)** — A personalized meal ordering platform with **Razorpay test payment gateway integration** for seamless checkout (Node.js, Express, EJS).  
+- **[MyPersonalMeal](https://github.com/nilimamishra2002/Personalproject)** — A personalized meal ordering platform with **Razorpay test payment gateway integration** for seamless checkout (Node.js, Express, EJS).  
 
 ---
 
