@@ -18,7 +18,7 @@ I love creating **interactive dashboards, full-stack applications, and data-driv
 - **Database:** MongoDB  
 - **Payments:** Razorpay (test integration)  
 - **Data & BI:** Power BI, Excel (ETL, DAX, data modeling)  
-- **Deployment:** Vercel, GitHub Pages  
+- **Deployment:** Vercel, GitHub Pages , Render
 - **Tools:** Git, GitHub, Postman  
 
 ---
