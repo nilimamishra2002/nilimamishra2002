@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I’m Nilima Mishra 👋
 
-<!--
-**nilimamishra2002/nilimamishra2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Aspiring Software Developer | Data Enthusiast | Dashboard Builder**  
+I love creating **interactive dashboards, full-stack applications, and data-driven projects** that bridge the gap between raw data and meaningful insights.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Current Highlights
+- **[MovieLens Dashboard](https://movie-lens-insights-azure.vercel.app/)** — Interactive analytics dashboard built with React, Material-UI, Recharts, and Power BI; deployed on Vercel.  
+- **[MediVault](https://github.com/nilimamishra2002/medivault)** — Secure medical records management system (Node.js, Express, MongoDB).  
+- **[MyPersonalMeal](https://github.com/nilimamishra2002/mypersonalmeal)** — A personalized meal ordering platform with **Razorpay test payment gateway integration** for seamless checkout (Node.js, Express, EJS).  
+
+---
+
+## 🛠️ Tech Stack
+- **Frontend:** React, Material-UI, Tailwind, Recharts, EJS  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB  
+- **Payments:** Razorpay (test integration)  
+- **Data & BI:** Power BI, Excel (ETL, DAX, data modeling)  
+- **Deployment:** Vercel, GitHub Pages  
+- **Tools:** Git, GitHub, Postman  
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nilimamishra2002&show_icons=true&count_private=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilimamishra2002&layout=compact&theme=radical" alt="langs" />
+</p>
+
+---
+
+## 📫 Let’s Connect
+- LinkedIn: [Your LinkedIn Link]  
+- Email: [your.email@example.com]  
+
+⭐️ *Check out my repositories below — I’m always building something new!*
