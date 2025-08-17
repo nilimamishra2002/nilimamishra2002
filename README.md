@@ -32,7 +32,7 @@ I love creating **interactive dashboards, full-stack applications, and data-driv
 ---
 
 ## 📫 Let’s Connect
-- LinkedIn: [Your LinkedIn Link]  
-- Email: [your.email@example.com]  
+- LinkedIn: www.linkedin.com/in/nilima-mishra-6481852b4  
+- Email: nilimamishra2002@gmail.com  
 
 ⭐️ *Check out my repositories below — I’m always building something new!*
