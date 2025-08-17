@@ -23,14 +23,6 @@ I love creating **interactive dashboards, full-stack applications, and data-driv
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nilimamishra2002&show_icons=true&count_private=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilimamishra2002&layout=compact&theme=radical" alt="langs" />
-</p>
-
----
-
 ## 📫 Let’s Connect
 - LinkedIn: www.linkedin.com/in/nilima-mishra-6481852b4  
 - Email: nilimamishra2002@gmail.com  
