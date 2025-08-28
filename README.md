@@ -12,28 +12,39 @@ I love creating **interactive dashboards, full-stack applications, and data-driv
 
 
 
-## 🛠️ Tech Stack
-- **Frontend:** React, Material-UI, Tailwind, Recharts, EJS  
-- **Backend:** Node.js, Express.js  
-- **Database:** MongoDB  
-- **Payments:** Razorpay (test integration)  
-- **Data & BI:** Power BI, Excel (ETL, DAX, data modeling)  
-- **Deployment:** Vercel, GitHub Pages , Render
-- **Tools:** Git, GitHub, Postman  
+## 🛠️ Tech Stack  
 
+**Frontend:**  
+⚛️ React • 🎨 Material-UI • 🎨 Tailwind CSS • 📊 Recharts • 📝 EJS  
+
+**Backend:**  
+🟢 Node.js • 🚂 Express.js  
+
+**Database & Payments:**  
+🗄️ MongoDB • 💳 Razorpay (test integration)  
+
+**Data & BI:**  
+📊 Power BI • 📑 Excel (ETL, DAX, Data Modeling)  
+
+**Deployment & Tools:**  
+▲ Vercel • 🌐 GitHub Pages • 🛠️ Git/GitHub • 📬 Postman  
+ 
 
 
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nilimamishra2002&show_icons=true&count_private=true&theme=radical" alt="stats" />
-  <br/>
+  <br/> <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilimamishra2002&layout=compact&theme=radical" alt="langs" />
 </p>
 
 
 
-## 📫 Let’s Connect
-- LinkedIn: www.linkedin.com/in/nilima-mishra-6481852b4  
-- Email: nilimamishra2002@gmail.com  
+## 📫 Let’s Connect  
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/nilimamishra2002)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your.email@example.com)  
+
 
 ⭐️ *Check out my repositories below — I’m always building something new!*
