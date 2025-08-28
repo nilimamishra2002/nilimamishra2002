@@ -27,7 +27,7 @@ I build **interactive dashboards, full-stack applications, and data-driven solut
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB  
 - **Payments:** Razorpay (test integration)  
-- **Data & BI:** Power BI, Excel (ETL, DAX, Data Modeling)  
+- **Data & BI:** Power BI, Excel 
 - **Deployment:** Vercel, Render, GitHub Pages  
 - **Tools:** Git, GitHub, Postman  
 
