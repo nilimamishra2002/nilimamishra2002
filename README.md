@@ -61,7 +61,7 @@ Strong focus on **backend logic, REST APIs, authentication, and data-driven insi
 
 ## 📫 Let’s Connect  
 
-- 💼 **LinkedIn:** [https://www.linkedin.com/in/your-link/](https://www.linkedin.com/in/nilima-mishra-6481852b4)  
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/nilima-mishra-6481852b4)](https://www.linkedin.com/in/nilima-mishra-6481852b4)  
 - 📧 **Email:** [nilimamishra2002@gmail.com ](nilimamishra2002@gmail.com) 
 - 🧑‍💻 **GitHub:** [https://github.com/nilimamishra2002](https://github.com/nilimamishra2002)  
 
