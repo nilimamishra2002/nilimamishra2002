@@ -24,7 +24,6 @@ Strong focus on **backend logic, REST APIs, authentication, and data-driven insi
 - **[AI Resume Skill Gap Analyzer](https://ai-resume-skill-gap-analyzer-fnd.vercel.app/)**  
   AI-based system to analyze resumes vs job descriptions and generate skill roadmaps.  
   *Python, NLP, Scikit-learn, React.js*  
-  🔗 [View Code](https://github.com/jasaswin/AI-RESUME-SKILL-GAP--ANALYZER) | 🚧 Live version coming soon
 
 ---
 
